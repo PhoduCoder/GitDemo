@@ -1,3 +1,4 @@
-intentional
-creation
-of this file
+<<<<<<< HEAD
+=======
+Intentional
+>>>>>>> main

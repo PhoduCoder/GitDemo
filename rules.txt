@@ -1,4 +1,5 @@
 #Sample File for all the rule
+<<<<<<< HEAD
 Rule1.txt
 Rule2.txt
 Rule3.txt
